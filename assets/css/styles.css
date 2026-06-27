@@ -181,7 +181,7 @@ body::before {
 .hero-cta .btn-ghost { color: var(--white); border-color: rgba(255,255,255,.6); }
 .hero-cta .btn-ghost:hover { background: var(--white); color: var(--blue); border-color: var(--white); }
 .hero-badge { display: flex; justify-content: center; }
-.hero-badge .patch { filter: drop-shadow(0 12px 26px rgba(0,0,0,.35)); width: 100%; height: auto; max-width: 260px; }
+.hero-badge .patch { filter: drop-shadow(0 12px 26px rgba(0,0,0,.35)); width: 100%; height: auto; }
 
 /* =========================================================== "WHAT'S NEXT" */
 .next-strip { background: var(--gray); border-bottom: 1px solid var(--line); }
