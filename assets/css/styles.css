@@ -90,9 +90,9 @@ body::before {
 
 /* ----------------------------------------------------------- the patch --- */
 /* Reused round pack emblem. Sizes set by the parent .patch--N class.        */
-.patch { display: block; flex: none; }
-.patch--sm { width: 42px; height: 42px; }
-.patch--lg { width: 116px; height: 116px; }
+.patch { display: block; flex: none; width: auto; }
+.patch--sm { height: 42px; }
+.patch--lg { height: 116px; }
 
 /* --------------------------------------------------------------- navbar --- */
 .nav {
